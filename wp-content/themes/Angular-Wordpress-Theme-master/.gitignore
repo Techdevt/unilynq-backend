@@ -1,0 +1,9 @@
+AngularWordpress.jpg
+AngularWordpress.psd
+angularTheme.zip
+page-api.php
+functions.php.notLocal
+.DS_Store
+
+node_modules/*
+build/*
